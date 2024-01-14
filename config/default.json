@@ -1,0 +1,10 @@
+{
+    "server": {
+      "port": 5000,
+      "jwtSecret": "your-secret-key"
+    },
+    "database": {
+      "url": "mongodb://localhost:27017/movie-recommendation-app"
+    }
+  }
+  
